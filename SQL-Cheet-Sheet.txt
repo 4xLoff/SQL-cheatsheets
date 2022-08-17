@@ -1,0 +1,4 @@
+                                                           SQL-Cheet-Sheet
+
+SQL, o lenguaje de consulta estructurado , es un conjunto de comandos para administrar operaciones de bases de datos relacionales como 
+eliminar, crear, actualizar, leer, etc.
